@@ -1,0 +1,338 @@
+[
+  {
+    "modelo": "Nissan Kicks Exclusive 1.6 16v Flex Aut.",
+    "marca": "Nissan",
+    "valor": 108900,
+    "ano_fabricacao": 2021,
+    "ano_modelo": 2022
+  },
+  {
+    "modelo": "Honda Wr-v 1.5 Exl Cvt",
+    "marca": "Honda",
+    "valor": 83900,
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018
+  },
+  {
+    "modelo": "Volkswagen Saveiro 1.6 Total Flex Cabine Simples Trooper",
+    "marca": "Volkswagen",
+    "valor": 39900,
+    "ano_fabricacao": 2010,
+    "ano_modelo": 2011
+  },
+  {
+    "modelo": "Chevrolet Tracker Premier 1.4 Turbo 16v Flex Aut",
+    "marca": "Chevrolet",
+    "valor": 93900,
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2019
+  },
+  {
+    "modelo": "Renault Duster 1.6 16v Sceexpression Manual",
+    "marca": "Renault",
+    "valor": 82900,
+    "ano_fabricacao": 2020,
+    "ano_modelo": 2021
+  },
+  {
+    "modelo": "Renault Sandero Stepway Flex 1.6 16v 5p",
+    "marca": "Renault",
+    "valor": 47900,
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2017
+  },
+  {
+    "modelo": "Volkswagen Fox Rock In Rio 1.6 Mi Total Flex 8v 5p",
+    "marca": "Volkswagen",
+    "valor": 52900,
+    "ano_fabricacao": 2015,
+    "ano_modelo": 2016
+  },
+  {
+    "modelo": "Volkswagen Virtus Comfort. 200 Tsi 1.0 Flex 12v Aut",
+    "marca": "Volkswagen",
+    "valor": 80900,
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2020
+  },
+  {
+    "modelo": "Ford Ecosport Freestyle 1.5 12v Flex 5p Aut.",
+    "marca": "Ford",
+    "valor": 80900,
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2020
+  },
+  {
+    "modelo": "Chevrolet Montana Ls 1.4 Econoflex 8v 2p",
+    "marca": "Chevrolet",
+    "valor": 55900,
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2019
+  },
+  {
+    "modelo": "Hyundai Hb20 Comfort 1.0 Flex 12v Mec.",
+    "marca": "Hyundai",
+    "valor": 47900,
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2015
+  },
+  {
+    "modelo": "Renault Duster Intense 1.6 16v Flex Aut.",
+    "marca": "Renault",
+    "valor": 102900,
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023
+  },
+  {
+    "modelo": "Audi Q3 2.0 Tfsi Quat. 170/180cv S-tronic 5p",
+    "marca": "Audi",
+    "valor": 89900,
+    "ano_fabricacao": 2012,
+    "ano_modelo": 2013
+  },
+  {
+    "modelo": "Chevrolet Cruze Ltz 1.4 16v Turbo Flex 4p Aut.",
+    "marca": "Chevrolet",
+    "valor": 97900,
+    "ano_fabricacao": 2018,
+    "ano_modelo": 2019
+  },
+  {
+    "modelo": "Fiat Toro Freedom 1.8 16v Flex Aut.",
+    "marca": "Fiat",
+    "valor": 93900,
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2019
+  },
+  {
+    "modelo": "Honda Fit Cx 1.4 Flex 16v 5p Mec.",
+    "marca": "Honda",
+    "valor": 49900,
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2014
+  },
+  {
+    "modelo": "Chevrolet Cruze Hb Sport Lt 1.8 16v Flexp. 5p Mec",
+    "marca": "Chevrolet",
+    "valor": 59900,
+    "ano_fabricacao": 2013,
+    "ano_modelo": 2014
+  },
+  {
+    "modelo": "Fiat Strada 1.3 Cabine Dupla Volcano",
+    "marca": "Fiat",
+    "valor": 101900,
+    "ano_fabricacao": 2020,
+    "ano_modelo": 2021
+  },
+  {
+    "modelo": "Fiat Toro Freedom 1.8 16v Flex Aut.",
+    "marca": "Fiat",
+    "valor": 84900,
+    "ano_fabricacao": 2016,
+    "ano_modelo": 2017
+  },
+  {
+    "modelo": "Mercedes-benz Classe B 200 Cgi 1.6 Tb Sport 156cv Aut",
+    "marca": "Mercedes",
+    "valor": 69900,
+    "ano_fabricacao": 2013,
+    "ano_modelo": 2013
+  },
+  {
+    "modelo": "Citroën C3 Excl. 1.6 Vti Flex Start 16v 5p Aut.",
+    "marca": "Citroen",
+    "valor": 61900,
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018
+  },
+  {
+    "modelo": "Chevrolet Onix Advantage 1.4 8v5p Automatico",
+    "marca": "Chevrolet",
+    "valor": 66900,
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2019
+  },
+  {
+    "modelo": "Hyundai Tucson Gls 1.6 Turbo 16v Aut.",
+    "marca": "Hyundai",
+    "valor": 135900,
+    "ano_fabricacao": 2021,
+    "ano_modelo": 2022
+  },
+  {
+    "modelo": "Volkswagen Saveiro 1.6 Mi/1.6 Mi Total Flex 8v",
+    "marca": "Volkswagen",
+    "valor": 46900,
+    "ano_fabricacao": 2013,
+    "ano_modelo": 2014
+  },
+  {
+    "modelo": "Citroën C4 Lounge Exclusive 1.6 Turbo 4p Aut.",
+    "marca": "Citroen",
+    "valor": 51900,
+    "ano_fabricacao": 2013,
+    "ano_modelo": 2014
+  },
+  {
+    "modelo": "Fiat Fiorino Furgão Work. Hard 1.4 Flex 8v 2p",
+    "marca": "Fiat",
+    "valor": 67900,
+    "ano_fabricacao": 2020,
+    "ano_modelo": 2020
+  },
+  {
+    "modelo": "Volkswagen Fox Comfortline 1.6 Flex 8v 5p",
+    "marca": "Volkswagen",
+    "valor": 54900,
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018
+  },
+  {
+    "modelo": "Peugeot Partner Furgão 1.6 16v/1.6 16v Flex 3p",
+    "marca": "Peugeot",
+    "valor": 62900,
+    "ano_fabricacao": 2020,
+    "ano_modelo": 2021
+  },
+  {
+    "modelo": "Jeep Renegade Sport 2.0 4x4 Tb Diesel Aut.",
+    "marca": "Jeep",
+    "valor": 85900,
+    "ano_fabricacao": 2015,
+    "ano_modelo": 2016
+  },
+  {
+    "modelo": "Hyundai Hb20 Platinum 1.0 Tb Flex 12v Aut.",
+    "marca": "Hyundai",
+    "valor": 82900,
+    "ano_fabricacao": 2021,
+    "ano_modelo": 2022
+  },
+  {
+    "modelo": "Fiat Pulse 1.0 T200 Drive Cvt",
+    "marca": "Fiat",
+    "valor": 95900,
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2022
+  },
+  {
+    "modelo": "Jeep Renegade Sport 1.8 4x2 Flex 16v Aut.",
+    "marca": "Jeep",
+    "valor": 73900,
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2017
+  },
+  {
+    "modelo": "Chevrolet Onix 1.0 Spe/4 Lt",
+    "marca": "Chevrolet",
+    "valor": 44900,
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2015
+  },
+  {
+    "modelo": "Fiat Grand Siena 1.4 Evo Flex 8v 4p",
+    "marca": "Fiat",
+    "valor": 58900,
+    "ano_fabricacao": 2021,
+    "ano_modelo": 2021
+  },
+  {
+    "modelo": "Land Rover Discovery Sport Hse 2.0 4x4 Diesel Aut.",
+    "marca": "Land Rover",
+    "valor": 134900,
+    "ano_fabricacao": 2016,
+    "ano_modelo": 2016
+  },
+  {
+    "modelo": "Fiat Argo Trekking 1.3 8v Flex",
+    "marca": "Fiat",
+    "valor": 71900,
+    "ano_fabricacao": 2020,
+    "ano_modelo": 2020
+  },
+  {
+    "modelo": "Volkswagen Amarok High.cd 2.0 16v Tdi 4x4 Dies. Aut",
+    "marca": "Volkswagen",
+    "valor": 79900,
+    "ano_fabricacao": 2012,
+    "ano_modelo": 2012
+  },
+  {
+    "modelo": "Jeep Renegade 1.8 Std Auto",
+    "marca": "Jeep",
+    "valor": 91900,
+    "ano_fabricacao": 2021,
+    "ano_modelo": 2021
+  },
+  {
+    "modelo": "Fiat Toro Freedom 1.3 T270 4x2 Flex Automático",
+    "marca": "Fiat",
+    "valor": 129900,
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023
+  },
+  {
+    "modelo": "Chevrolet Spin Lt 1.8 8v Econo.flex 5p Aut.",
+    "marca": "Chevrolet",
+    "valor": 42900,
+    "ano_fabricacao": 2012,
+    "ano_modelo": 2013
+  },
+  {
+    "modelo": "Jeep Compass 1.3 T270 Serie S Auto",
+    "marca": "Jeep",
+    "valor": 169900,
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2022
+  },
+  {
+    "modelo": "Toyota Corolla Cross Xre 2.0 16v Flex Aut.",
+    "marca": "Toyota",
+    "valor": 142900,
+    "ano_fabricacao": 2021,
+    "ano_modelo": 2022
+  },
+  {
+    "modelo": "Hyundai Ix35 2.0 16v 170cv 2wd/4wd Aut.",
+    "marca": "Hyundai",
+    "valor": 65900,
+    "ano_fabricacao": 2011,
+    "ano_modelo": 2012
+  },
+  {
+    "modelo": "Volkswagen Fox 1.0 Tec Total Flex",
+    "marca": "Volkswagen",
+    "valor": 41900,
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2014
+  },
+  {
+    "modelo": "Hyundai Hb20s Premium 1.6 Flex 16v Aut. 4p",
+    "marca": "Hyundai",
+    "valor": 55900,
+    "ano_fabricacao": 2015,
+    "ano_modelo": 2015
+  },
+  {
+    "modelo": "Fiat Toro Ranch 2.0 16v 4x4 Tb Diesel Aut.",
+    "marca": "Fiat",
+    "valor": 159900,
+    "ano_fabricacao": 2021,
+    "ano_modelo": 2022
+  },
+  {
+    "modelo": "Volkswagen T Cross Cl Tsi Ad Flex",
+    "marca": "Volkswagen",
+    "valor": 114900,
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2022
+  },
+  {
+    "modelo": "Ford Ranger Xls 2.2 4x4 Cd Diesel Aut.",
+    "marca": "Ford",
+    "valor": 164900,
+    "ano_fabricacao": 2021,
+    "ano_modelo": 2021
+  }
+]
