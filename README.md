@@ -1,6 +1,6 @@
 # Web Scraping de Dados de Veículos
 
-Este é um pequeno projeto em Ruby para extrair dados de veículos de um site usando web scraping e salvá-los em um arquivo JSON.
+Este é um pequeno projeto em Ruby para extrair dados de veículos do site [Na Pista](https://napista.com.br/) usando web scraping e salvá-los em um arquivo JSON.
 
 ## Descrição
 
